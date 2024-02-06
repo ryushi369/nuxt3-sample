@@ -8,6 +8,7 @@
         {{ user.id }}, {{ user.name }}
       </li>
     </ul>
+    <img src="~/assets/mashmelloman.jpeg" alt="mashmelloman" />
   </div>
 </template>
 
